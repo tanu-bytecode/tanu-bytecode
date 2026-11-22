@@ -28,3 +28,24 @@ I enjoy learning programming, exploring new technologies, and building creative 
 ## 🚀 My Goal
 
 To become a skilled developer by learning, experimenting, and building real-world projects.
+
+
+---
+
+## 🚀 Featured Projects
+
+### 🌸 VEL✿oura
+A luxury perfume website built using HTML, CSS and JavaScript.
+
+### 🐍 Python Projects
+Beginner-friendly Python projects focused on logic, problem-solving and practical learning.
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: [@tanu-bytecode](https://github.com/tanu-bytecode)
+
+---
+
+⭐ Thanks for visiting my profile!
