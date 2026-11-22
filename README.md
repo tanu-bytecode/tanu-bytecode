@@ -49,3 +49,14 @@ Beginner-friendly Python projects focused on logic, problem-solving and practica
 ---
 
 ⭐ Thanks for visiting my profile!
+
+
+---
+
+## 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanu-bytecode&show_icons=true&theme=tokyonight)
+
+---
+
+*Learning something new every day. 🚀*
